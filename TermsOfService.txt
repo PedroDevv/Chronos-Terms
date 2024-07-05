@@ -1,0 +1,34 @@
+Welcome to Chronos, an AI chatbot designed to enhance your Discord experience. Before using Chronos, please read and agree to the following terms:
+
+1. Data Handling and Privacy:
+   - Chronos operates by analyzing messages in group chats, servers, and direct messages (DMs) solely within the Discord platform.
+   - Chronos does not store or retain any user data or messages beyond the immediate processing required to provide its services.
+   - We prioritize user privacy and do not share or sell any data to third parties.
+
+2. Functionality and Features:
+   - Chronos utilizes Meta's LLaMA AI models to provide interactive responses and enhance communication within Discord communities.
+   - The bot's functionalities include:
+     - Reading and processing messages in real-time.
+     - Responding to queries and engaging in conversations based on the context of the messages received.
+     - Providing useful information and entertainment based on user interactions.
+
+3. User Conduct and Responsibilities:
+   - Users interacting with Chronos are expected to abide by Discord's Terms of Service and Community Guidelines.
+   - Any misuse of Chronos for harassment, spamming, or any other malicious activities is strictly prohibited and may result in immediate termination of access.
+   - Users are responsible for the content and nature of the messages they send, even in interactions with Chronos.
+
+4. Limitations of Liability:
+   - Chronos is provided "as is" without warranties of any kind, express or implied.
+   - We do not guarantee the accuracy, reliability, or suitability of Chronos' responses or functionalities for any particular purpose.
+   - Users acknowledge that the use of Chronos is at their own risk and discretion.
+
+5. Changes to Terms of Service:
+   - These Terms of Service may be updated from time to time. Users will be notified of any significant changes.
+   - Continued use of Chronos after such changes constitutes acceptance of the revised terms.
+
+6. Contact and Support:
+   - For any questions, issues, or support related to Chronos, please contact us via The Chronos Foundation discord server.
+
+By using Chronos, you agree to these Terms of Service. If you do not agree with any part of these terms, please refrain from using Chronos. We hope you enjoy using Chronos to enrich your Discord experience!
+
+Last updated: 07/05/24
